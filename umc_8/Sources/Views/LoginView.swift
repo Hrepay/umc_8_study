@@ -18,7 +18,7 @@ struct LoginView: View {
             loginLogo
             loginTextField
             snsLogin
-            Spacer().frame(height: 104) // 하단 여백
+            Spacer().frame(height: 100) // 하단 여백
         }
     }
     // 로그인 상단뷰
